@@ -25,7 +25,7 @@
 ##### A la segunda parte se le incorporó un led que se enciende cuando la luz de la fotoresistencia baja. En la fotoresistencia cuanto mayor sea la intensidad de la luz que incide en la superficie del LDR menor será su resistencia y cuanta menos luz incida mayor será su resistencia. La led se configura como salida digital con una resistencia de 220ohms. Y la fotoresistencia se conecta a 5v, a un pin con prefijo A como entrada analógica y a tierra con una resistencia de 1kohm. 
 
 
-### PRIMERA PARTE. PARCIAL DOMICILIARIO. FALASCA.
+### CUARTA PARTE. PARCIAL DOMICILIARIO. FALASCA.
 
 
 #### En esta cuarta parte se muestran en los dos displays los números hexadecimales del 0-99 en lugar de los números primos.  
