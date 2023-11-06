@@ -22,7 +22,7 @@
 
 
 ### Descripción:
-#### Se conectan los mismos pines a los mismos segmentos(letras) a los dos displays y en modo cátado un cable distinto para cada uno para hacer la multiplexación, encender uno y apagar el otro y viceversa continuamente. La configuración en salida digital con resistencias de 220ohms.Tres pulsadores configurados como entradas digitales que incrementarán, decrementarán o resetearán los displays. Los displays mostrarán del 0-99. Uno mostrará la unidad y el otro la decena.
+#### Se conectan los mismos pines a los mismos segmentos(letras) a los dos displays y en modo cátodo un cable distinto para cada uno para hacer la multiplexación, encender uno y apagar el otro y viceversa continuamente. La configuración en salida digital con resistencias de 220ohms.Tres pulsadores configurados como entradas digitales que incrementarán, decrementarán o resetearán los displays. Los displays mostrarán del 0-99. Uno mostrará la unidad y el otro la decena.
 
 
 
