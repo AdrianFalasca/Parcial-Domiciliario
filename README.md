@@ -33,7 +33,7 @@
 
 
 ### SEGUNDA PARTE. 
-####  Modificación por un interruptor deslizante y números primos
+####  Modificación por un interruptor deslizante y números primos. Incorporación de un motor de aficionado y un sensor de temperatura.
 
 
 <p>
