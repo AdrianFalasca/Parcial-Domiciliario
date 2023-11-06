@@ -17,7 +17,7 @@
 #### Se conectan los mismos pines a los mismos segmentos(letras) a los dos displays y en modo cátado un cable distinto para cada uno para hacer la multiplexación, encender uno y apagar el otro y viceversa continuamente. La configuración en salida digital con resistencias de 220ohms.Tres pulsadores configurados como entradas digitales que incrementarán, decrementarán o resetearán los displays. Los displays mostrarán del 0-99. Uno mostrará la unidad y el otro la decena.
 
 ###Link al proyecto:
-**<a>Primer proyecto<link href="https://www.tinkercad.com/things/5IK3aRrQh0f-primera-parte-parcial-domiciliario-falasca-ferrara/editel \></a>**
+**<a>Primer proyecto<link href="https://www.tinkercad.com/things/5IK3aRrQh0f-primera-parte-parcial-domiciliario-falasca-ferrara/editel "\></a>**
 
 ### SEGUNDA PARTE. 
 
@@ -52,7 +52,7 @@
 * **Adrián Falasca.**
 
 <p>
-<img width="50px" src="https://github.com/AdrianFalasca/Parcial-Domiciliario/blob/main/esquemas/Esquema4.jpg">
+<img width="300px" src="https://github.com/AdrianFalasca/Parcial-Domiciliario/blob/main/esquemas/Esquema4.jpg">
 </p>
 
 ### Descripción:
